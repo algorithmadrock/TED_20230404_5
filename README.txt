@@ -1,5 +1,5 @@
 # TED_20230404_5
-  Considerando a biblioteca PilhaString, criada em (https://github.com/algorithmadrock/TED_20230328_2)*, faça:
+  Considerando a biblioteca PilhaString, criada em (https://github.com/algorithmadrock/TED_20230328_2 )*, faça:
     Criar um projeto Java (Palindromos) e importe a biblioteca PilhaStrings. Esse novo projeto irá receber uma cadeia de Strings do usuário e demonstrar para ele se essa 
 palavra se trata ou não de um Palíndromo. 
     Palíndromo é uma cadeia de caracteres que se lê da direita para a esquerda e da esquerda para a direita e a sequência de caracteres é a mesma, como em arara, ovo, 
